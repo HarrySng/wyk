@@ -5,7 +5,7 @@ Meant for new linux users.
 
 ### Installation
 
-Crate here: https://crates.io/crates/wyk
+Crate here: https://crates.io/crates/wyk   
 To install, run `cargo install wyk`.  
 Assuming you have Rust and Cargo installed. If not, see here [Install Rust](https://www.rust-lang.org/tools/install).
 
