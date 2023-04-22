@@ -1,0 +1,15 @@
+[package]
+name = "wyk"
+version = "0.1.0"
+authors = ["Harry Singh"]
+license = "MIT"
+description = "Would You Kindly give me a single line explanation for this terminal command?"
+readme = "README.md"
+homepage = "https://github.com/HarrySng/wyk"
+repository = "https://github.com/HarrySng/wyk"
+keywords = ["ubuntu", "debian", "cli", "explain"]
+categories = ["command-line-utilities"]
+edition = "2021"
+
+[dependencies]
+phf = { version = "0.11", features = ["macros"] }
